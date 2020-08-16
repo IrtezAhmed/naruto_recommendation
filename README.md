@@ -1,4 +1,3 @@
-# reco-algo
-Recommendation algorithm projects
+#Naruto Character Recommendation
 
-This repo contains recommendation algorithms that I'm developing. I intend to eventually include ML algorithms to improve recommendation accuracy.
+This is my first Python project. Based on your prerred characters it will recommend a Naruto character to you. A very simple program!
